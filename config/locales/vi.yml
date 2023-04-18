@@ -1,0 +1,5 @@
+vi:
+  create: "Tạo mới"
+  edit:   "Chỉnh sửa"
+  delete: "Xóa bản ghi"
+  import: "Import"
